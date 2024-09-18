@@ -1,0 +1,4 @@
+# ninja log v5
+1	9457	1702962483286637454	/data0/wanghn/compression/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	63c2cc79743ab46d
+0	17514	1702962491334625651	/data0/wanghn/compression/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	8cdc4fd2d2ce62d2
+1	38027	1702962511854595427	/data0/wanghn/compression/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	685e7352040453b8
